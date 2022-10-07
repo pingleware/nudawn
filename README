@@ -1,5 +1,7 @@
-Linux kernel
-============
+# How I Built My Own Linux Distribution: The Go-Nuts 2022 Guide
+Based on the article at https://www.idalko.com/build-linux-distribution/
+
+# Linux kernel
 
 There are several guides for kernel developers and users. These guides can
 be rendered in a number of formats, like HTML and PDF. Please read
