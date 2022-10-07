@@ -2,7 +2,7 @@
 # It is present if you get git pack size exceeded errors due to this repo being to big
 
 # Adjust the following variables as necessary
-REMOTE=tos
+REMOTE=nudawn
 #BRANCH=arch/v5.5-arch1
 BRANCH=$(git rev-parse --abbrev-ref HEAD)
 BATCH_SIZE=500
